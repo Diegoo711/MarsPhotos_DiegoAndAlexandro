@@ -35,6 +35,8 @@ import androidx.compose.ui.unit.dp
 import com.example.marsphotos.R
 import com.example.marsphotos.ui.theme.MarsPhotosTheme
 
+//.
+
 @Composable
 fun HomeScreen(
     marsUiState: MarsUiState,
